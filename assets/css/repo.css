@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+
+.repo_logo{
+	font-family: 'Pacifico', cursive;
+	font-weight: 2em;
+	text-align: center;
+}
+
+.tweak_name{
+	text-align: center;
+}
+
+img{
+	width: 100%;
+}
