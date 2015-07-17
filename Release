@@ -1,0 +1,9 @@
+Origin: zachatrocity's Repo
+Label: zachatrocity's Repo
+Suite: stable
+Version: 1.0
+Codename: zachatrocity
+Architectures: iphoneos-arm
+Components: main
+Description: zachatrocity's repo used mainly for testing
+MD5Sum:
