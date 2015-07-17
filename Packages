@@ -1,0 +1,16 @@
+Package: com.atrocity.roundification
+Version: 0.0.1-4
+Priority: optional
+Section: Tweaks
+Maintainer: zachatrocity <zachatrocity@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.atrocity.roundification_0.0.1-4_iphoneos-arm.deb
+Size: 4512
+MD5um: 367629a5ddea2969bcdce9decd4523f3
+SHA1: 06f6ceb222ec2be186c9ae3fbe81eca8f9335e58
+SHA256: 0b7af535c00fc710aff6d66d2890eacb900dfea623e484c46690a9575b1e61cd
+Description: A tweak to make the NC rounded, as well as notification banners.
+Name: Roundification
+Author: zachatrocity <zachatrocity@gmail.com>
+Depiction: http://www.zachatrocity.com/repo/depic/?p=com.atrocity.roundificaion
